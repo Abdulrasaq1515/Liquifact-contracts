@@ -1,3 +1,4 @@
+import utils.session
 with open('escrow/src/tests/settlement.rs', 'a', encoding='utf-8') as f:
     f.write('''
 // ──────────────────────────────────────────────────────────────────────────────
